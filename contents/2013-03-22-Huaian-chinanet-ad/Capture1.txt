@@ -1,0 +1,43 @@
+==================================================
+Index             : 225
+Protocol          : TCP
+Local Address     : 192.168.1.186
+Remote Address    : 118.244.165.244
+Local Port        : 2799
+Remote Port       : 80
+Local Host        : T420_Win8_PRO
+Remote Host       : www.99daili.com
+Service Name      : http
+Packets           : 12
+Data Size         : 1,243 Bytes
+Total Size        : 2,162 Bytesz
+Data Speed        : 15.6 KB/Sec
+Capture Time      : 2013/2/22 7:45:36:188
+Last Packet Time  : 2013/2/22 7:45:36:264
+Duration          : 00:00:00.076
+Local MAC Address : 
+Remote MAC Address: 
+Local IP Country  : 
+Remote IP Country : 
+==================================================
+
+GET / HTTP/1.1
+Host: www.99daili.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17
+DNT: 1
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+
+HTTP/1.1 200 OK
+Refresh: 15; URL=http://www.99daili.com/
+Content-Type: text/html
+Connection: close
+Expires: 0
+Cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+
+<html><!-- 15 --><script language=JScript><!-- function killErrors(){return true;} window.onerror=killErrors; --></script><frameset rows="*,0"><frame src="http://www.harx.cn/ts/tg/" noresize><frame src="" noresize></frameset></html>
+
