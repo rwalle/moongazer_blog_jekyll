@@ -16,7 +16,7 @@ timezone: GMT
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: pretty
-baseurl: ""
+baseurl: https://moongazer.me
 
 # Includes
 addthisId: ""
