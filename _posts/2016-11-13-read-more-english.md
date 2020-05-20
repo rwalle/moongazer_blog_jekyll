@@ -45,10 +45,10 @@ intro: 在美国待了一年多了，最近我给自己定下一个准则：在�
 不得不说国内很多人对美国媒体的了解太少，似乎对于很多国人来说“美国媒体”≈CNN甚至VOA，什么都是CNN怎样怎样。美国的媒体很多，立场差异也很大，有CBS、NBC、FOX这样的新闻网，也有New York Times、Washington Post、Huffington Post这样基于报纸的媒体，其中NBC、New York Times、Huffington等偏左，FOX、Washington Post这种偏右，因此任何单一的对美国媒体的印象必然都是片面的。我看新闻不算多，但我的感受之一是，美国的新闻业很发达，报道很有深度，关注面很广。关于深度，获得普利策奖的那些作品我很怀疑国内能有多少媒体写得出来；关注面广指的是，很多媒体不管是政治、社会、体育、娱乐、文化、艺术都有很多有水平的报道。在新闻写作方面本身，我自己的感觉是外国媒体要专业地多。BBC是标榜自己的中立的，而且的确做得很不错；美国的媒体像前面提到的有自己的立场，从它们的社论可以看到媒体的态度，然而从新闻报道里面（并不是所有新闻报道），可以看到媒体都是尽量以冷静、客观的态度去描述事情（尽管New York Times最近在竞选的报道中出了不少问题，见[这里](http://www.foxnews.com/politics/2016/11/12/new-york-times-publisher-vows-to-rededicate-itself-to-reporting-honestly.html)）。中文媒体呢？人民日报和环球时报这类经常睁着眼睛说瞎话的就不提了。看这两篇文章：
 
 [印度举办乡村运动会 阿三哥秀绝技天雷滚滚](http://news.cnr.cn/gjxw/tpjj/201402/t20140207_514794701.shtml)
-![cnr](http://ww1.sinaimg.cn/large/0060lm7Tgw1f9r8mokdmdj30et04h0tf.jpg)
+![cnr](/contents/2016-11-13-read-more-english/india-1.jpg)
 
 [印度阿三嘲笑中国农村家里脏乱 女人不会过日子](http://home.163.com/16/1011/06/C330ICPL001081EI.html#p=C31GI7SO50CB0010)
-![163](http://ww2.sinaimg.cn/large/0060lm7Tgw1f9r8nmhcpyj30m302lt9i.jpg)
+![163](/contents/2016-11-13-read-more-english/india-2.jpg)
 
 直接在标题中使用带有侮辱性的“阿三”。第一个是央广网，中央媒体；第二个是网易，经常干这种事。大一大二的时候经常看网易新闻，我注意到一个现象，如果新闻人物是男大学生，那标题里面肯定是“大学生”；如果是女大学生，那么标题里用的很有可能是“女大学生”。也就是说，男大学生会出现在《大学生被电信诈骗10余万元》里面，而女大学生的新闻恐怕是《女大学生被电信诈骗10余万元》。类似地， 这篇新闻
 
